@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglassesholder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile Views](https://hitscounter.dev/count/https-glassesholder-github-io.svg?style=plastic&title=Profile%20Views&title_bg=%23555555&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7)](https://hitscounter.dev)
 [![GitHub followers](https://img.shields.io/github/followers/glassesholder?label=Follow&style=social)](https://github.com/glassesholder)
 
 </div>
@@ -37,7 +37,7 @@
 
 ### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -60,7 +60,7 @@
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=glassesholder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/glassesholder)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=glassesholder&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/glassesholder)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glassesholder&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/glassesholder)
 
