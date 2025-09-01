@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hyo%20Jun%20Lee&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=LEE%20Hyojun&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=200)
 
 <div align="center">
   
-[![Profile Views](https://hitscounter.dev/count/https-glassesholder-github-io.svg?style=plastic&title=Profile%20Views&title_bg=%23555555&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7)](https://hitscounter.dev)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fglassesholder&label=&icon=github&color=%233d8bfd&message=&style=flat&tz=UTC)
 [![GitHub followers](https://img.shields.io/github/followers/glassesholder?label=Follow&style=social)](https://github.com/glassesholder)
 
 </div>
